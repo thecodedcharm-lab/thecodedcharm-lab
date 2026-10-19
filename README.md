@@ -82,7 +82,7 @@ i'm the person behind **thecodedcharm** — a little space where creativity meet
 ---
 
 ## 🎀 things i'm dreaming of building
-
+<div align="center">
 <table>
 <tr>
 <td width="50%" align="center">
@@ -117,7 +117,7 @@ learning, experimenting, and celebrating progress.
 </td>
 </tr>
 </table>
-
+</div>
 ---
 
 <div align="center">
