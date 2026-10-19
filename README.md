@@ -124,13 +124,13 @@ learning, experimenting, and celebrating progress.
 
 ## 💗 my GitHub journey
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=C45D82&icon_color=E9A1B8&text_color=9B4565&border_radius=18" width="48%" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=thecodedcharm-lab E&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=C45D82&icon_color=E9A1B8&text_color=9B4565&border_radius=18" width="48%" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=C45D82&text_color=9B4565&border_radius=18" width="48%" alt="Most-used languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodedcharm-lab &layout=compact&hide_border=true&bg_color=FFF0F5&title_color=C45D82&text_color=9B4565&border_radius=18" width="48%" alt="Most-used languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=FFF0F5&ring=E9A1B8&fire=C45D82&currStreakLabel=C45D82&sideLabels=9B4565&currStreakNum=9B4565&sideNums=9B4565&dates=C49AA9" width="70%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=thecodedcharm-lab &hide_border=true&background=FFF0F5&ring=E9A1B8&fire=C45D82&currStreakLabel=C45D82&sideLabels=9B4565&currStreakNum=9B4565&sideNums=9B4565&dates=C49AA9" width="70%" alt="GitHub contribution streak"/>
 
 </div>
 
