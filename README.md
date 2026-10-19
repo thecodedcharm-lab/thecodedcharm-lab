@@ -6,8 +6,8 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/♡-dream%20big-FFD6E0?style=for-the-badge&labelColor=FFF0F3&color=F5B6C8"/>
-<img src="https://img.shields.io/badge/୨୧-keep%20creating-F5B6C8?style=for-the-badge&labelColor=FFF0F3&color=FFD6E0"/>
+<img src="https://img.shields.io/badge/✿-dream%20big-FFD6E0?style=for-the-badge&labelColor=FFF0F3&color=F5B6C8"/>
+<img src="https://img.shields.io/badge/ ♡ -keep%20creating-F5B6C8?style=for-the-badge&labelColor=FFF0F3&color=FFD6E0"/>
 <img src="https://img.shields.io/badge/✿-stay%20curious-FFD6E0?style=for-the-badge&labelColor=FFF0F3&color=F5B6C8"/>
 
 <br/><br/>
